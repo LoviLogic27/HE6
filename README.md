@@ -13,3 +13,7 @@ Tap the app that you want to turn on a restricted setting for.
 Tip: If you can't find it, first tap See all apps or App info.
 Tap More  and then Allow restricted settings.
 Follow the on-screen instructions.
+
+
+DEMO LINK: https://www.youtube.com/watch?v=glZO0y7F9e8
+PITCH LINK: https://www.youtube.com/watch?v=O4WzaBpG2VU
